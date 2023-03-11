@@ -15,7 +15,7 @@
     <application
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
-        android:label="Bing Wallpaper App"
+        android:label="Daily Wallpaper App"
         android:requestLegacyExternalStorage="true">
         <activity
             android:name=".MainActivity"

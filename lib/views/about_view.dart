@@ -64,7 +64,7 @@ class _AboutView extends State<AboutView> {
       content: Wrap(
         children: [
           _buildItem(
-            title: const Text("A Bing wallpaper app."),
+            title: const Text("A wallpaper app."),
             subtitle: RichText(
               text: TextSpan(
                 style: TextStyle(color: Colors.grey[400]),
@@ -99,9 +99,9 @@ class _AboutView extends State<AboutView> {
           _buildItem(
             title: const Text("GitHub"),
             subtitle:
-                const Text("github.com/MatthiasHarzer/BingWallpaperSetter"),
+                const Text("github.com/MatthiasHarzer/DailyWallpaperApp"),
             onTap: () => Util.openUrl(
-                "https://github.com/MatthiasHarzer/BingWallpaperSetter"),
+                "https://github.com/MatthiasHarzer/DailyWallpaperApp"),
           ),
         ],
       ),
