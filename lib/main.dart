@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bing Daily Wallpaper',
+      title: 'Daily Wallpaper App',
       theme: appTheme,
       home: const HomePage(),
     );
