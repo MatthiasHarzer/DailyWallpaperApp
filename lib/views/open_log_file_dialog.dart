@@ -1,4 +1,4 @@
-import 'package:bing_wallpaper_setter/util/log.dart';
+import 'package:daily_wallpaper_app/util/log.dart';
 import 'package:flutter/material.dart';
 import 'package:share_plus/share_plus.dart';
 

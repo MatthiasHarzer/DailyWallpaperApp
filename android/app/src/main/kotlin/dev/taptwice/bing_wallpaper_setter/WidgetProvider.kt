@@ -1,4 +1,4 @@
-package dev.taptwice.bing_wallpaper_setter
+package dev.taptwice.daily_wallpaper_app
 
 import android.appwidget.AppWidgetManager
 import android.content.Context

@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:bing_wallpaper_setter/extensions/datetime.dart';
-import 'package:bing_wallpaper_setter/util/log.dart';
+import 'package:daily_wallpaper_app/extensions/datetime.dart';
+import 'package:daily_wallpaper_app/util/log.dart';
 
 import '../util/util.dart';
 import 'config_service.dart';

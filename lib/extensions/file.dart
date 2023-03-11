@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:bing_wallpaper_setter/extensions/list.dart';
+import 'package:daily_wallpaper_app/extensions/list.dart';
 
 // Assuming a file in the format wallpaper_yyyy-MM-dd_hsh_resolution
 // where hsh is a unique identifier for the image and resolution in format 1920x1080

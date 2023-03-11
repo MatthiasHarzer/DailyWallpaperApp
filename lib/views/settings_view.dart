@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:bing_wallpaper_setter/extensions/datetime.dart';
-import 'package:bing_wallpaper_setter/services/background_service.dart';
-import 'package:bing_wallpaper_setter/services/config_service.dart';
+import 'package:daily_wallpaper_app/extensions/datetime.dart';
+import 'package:daily_wallpaper_app/services/background_service.dart';
+import 'package:daily_wallpaper_app/services/config_service.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:optimize_battery/optimize_battery.dart';

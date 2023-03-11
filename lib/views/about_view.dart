@@ -1,5 +1,5 @@
-import 'package:bing_wallpaper_setter/services/config_service.dart';
-import 'package:bing_wallpaper_setter/views/open_log_file_dialog.dart';
+import 'package:daily_wallpaper_app/services/config_service.dart';
+import 'package:daily_wallpaper_app/views/open_log_file_dialog.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 

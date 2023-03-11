@@ -1,5 +1,5 @@
-import 'package:bing_wallpaper_setter/services/config_service.dart';
-import 'package:bing_wallpaper_setter/views/wallpaper_view.dart';
+import 'package:daily_wallpaper_app/services/config_service.dart';
+import 'package:daily_wallpaper_app/views/wallpaper_view.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 

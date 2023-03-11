@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:better_open_file/better_open_file.dart';
-import 'package:bing_wallpaper_setter/consts.dart' as consts;
+import 'package:daily_wallpaper_app/consts.dart' as consts;
 import 'package:intl/intl.dart';
 import 'package:logger/logger.dart';
 

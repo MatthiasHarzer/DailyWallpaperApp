@@ -2,11 +2,11 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
 
-import 'package:bing_wallpaper_setter/consts.dart';
-import 'package:bing_wallpaper_setter/extensions/datetime.dart';
-import 'package:bing_wallpaper_setter/extensions/file.dart';
-import 'package:bing_wallpaper_setter/services/config_service.dart';
-import 'package:bing_wallpaper_setter/services/wallpaper_info.dart';
+import 'package:daily_wallpaper_app/consts.dart';
+import 'package:daily_wallpaper_app/extensions/datetime.dart';
+import 'package:daily_wallpaper_app/extensions/file.dart';
+import 'package:daily_wallpaper_app/services/config_service.dart';
+import 'package:daily_wallpaper_app/services/wallpaper_info.dart';
 import 'package:collection/collection.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/services.dart';

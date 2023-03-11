@@ -1,4 +1,4 @@
-import 'package:bing_wallpaper_setter/extensions/datetime.dart';
+import 'package:daily_wallpaper_app/extensions/datetime.dart';
 
 /// An exception when the given day is too far in the past and can't be fetched by the bing api.
 class WallpaperOutOfDateException implements Exception {

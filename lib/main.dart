@@ -1,14 +1,14 @@
-import 'package:bing_wallpaper_setter/services/background_service.dart';
-import 'package:bing_wallpaper_setter/services/config_service.dart';
-import 'package:bing_wallpaper_setter/services/wallpaper_info.dart';
-import 'package:bing_wallpaper_setter/services/wallpaper_service.dart';
-import 'package:bing_wallpaper_setter/theme.dart';
-import 'package:bing_wallpaper_setter/util/log.dart';
-import 'package:bing_wallpaper_setter/util/util.dart';
-import 'package:bing_wallpaper_setter/views/about_view.dart';
-import 'package:bing_wallpaper_setter/views/settings_view.dart';
-import 'package:bing_wallpaper_setter/views/wallpaper_history_view.dart';
-import 'package:bing_wallpaper_setter/views/wallpaper_view.dart';
+import 'package:daily_wallpaper_app/services/background_service.dart';
+import 'package:daily_wallpaper_app/services/config_service.dart';
+import 'package:daily_wallpaper_app/services/wallpaper_info.dart';
+import 'package:daily_wallpaper_app/services/wallpaper_service.dart';
+import 'package:daily_wallpaper_app/theme.dart';
+import 'package:daily_wallpaper_app/util/log.dart';
+import 'package:daily_wallpaper_app/util/util.dart';
+import 'package:daily_wallpaper_app/views/about_view.dart';
+import 'package:daily_wallpaper_app/views/settings_view.dart';
+import 'package:daily_wallpaper_app/views/wallpaper_history_view.dart';
+import 'package:daily_wallpaper_app/views/wallpaper_view.dart';
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 

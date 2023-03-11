@@ -1,4 +1,4 @@
-import 'package:bing_wallpaper_setter/services/wallpaper_service.dart';
+import 'package:daily_wallpaper_app/services/wallpaper_service.dart';
 import 'package:flutter/foundation.dart';
 import 'package:home_widget/home_widget.dart';
 import 'package:workmanager/workmanager.dart';

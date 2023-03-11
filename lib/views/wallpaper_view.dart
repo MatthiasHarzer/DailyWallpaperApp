@@ -1,6 +1,6 @@
-import 'package:bing_wallpaper_setter/services/wallpaper_service.dart';
-import 'package:bing_wallpaper_setter/theme.dart' as theme;
-import 'package:bing_wallpaper_setter/views/wallpaper_info_view.dart';
+import 'package:daily_wallpaper_app/services/wallpaper_service.dart';
+import 'package:daily_wallpaper_app/theme.dart' as theme;
+import 'package:daily_wallpaper_app/views/wallpaper_info_view.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
