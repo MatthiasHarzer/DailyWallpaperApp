@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "dev.taptwice.bing_wallpaper_app"
+        applicationId "dev.taptwice.daily_wallpaper_app"
         minSdkVersion 21
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
