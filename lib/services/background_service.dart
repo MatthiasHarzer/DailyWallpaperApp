@@ -15,7 +15,8 @@ void workmanagerCallbackDispatcher() {
 }
 
 /// The callback, when the widget was clicked
-Future<void> widgetBackgroundCallback(Uri? uri) async {
+@pragma("vm:entry-point")
+void widgetBackgroundCallback(Uri? uri) async {
   await ConfigService.ensureInitialized();
 
   _logger.i("Background callback: $uri");
