@@ -18,6 +18,8 @@ void workmanagerCallbackDispatcher() {
 Future<void> widgetBackgroundCallback(Uri? uri) async {
   await ConfigService.ensureInitialized();
 
+  _logger.i("Background callback: $uri");
+
   if (uri?.host == consts.WIDGET_HOST) {
     await WallpaperService.updateWallpaperOnWidgetIntent();
   }

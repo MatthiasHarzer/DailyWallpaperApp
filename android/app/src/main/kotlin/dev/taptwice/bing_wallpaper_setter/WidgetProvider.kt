@@ -30,7 +30,7 @@ class AppWidgetProvider : HomeWidgetProvider() {
 
                 // Pending intent to update counter on button click
                 val backgroundIntent = HomeWidgetBackgroundIntent.getBroadcast(context,
-                    Uri.parse("bingWallpaperApp://updatewallpaper"))
+                    Uri.parse("dailyWallpaperApp://updatewallpaper"))
                 setOnClickPendingIntent(R.id.bt_update, backgroundIntent)
             }
             appWidgetManager.updateAppWidget(widgetId, views)
